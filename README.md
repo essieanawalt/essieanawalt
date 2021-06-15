@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @essieanawalt
-- 👀 I’m interested in finding which niche I'm most interested in
+- 👀 I’m interested in... well, most everything
 - 🌱 I’m currently learning Javascript 
+- 🤞🏻 I'm working to further my transition into dev and/or product
+- 💡 Do you have insight into front-end? back-end? software testing? I'd love to hear it!
 
 <!---
 essieanawalt/essieanawalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
