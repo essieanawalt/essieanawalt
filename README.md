@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @essieanawalt
 - 👀 I’m interested in... well, most everything
 - 🌱 I’m currently learning Javascript 
-- 🤞🏻 I'm working to further my transition into dev and/or product
+- 🤞🏻 I'm working to further my transition into development
 - 💡 Do you have insight into front-end? back-end? software testing? I'd love to hear it!
 
 <!---
