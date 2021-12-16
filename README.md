@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @essieanawalt
-- 🌱 I’m currently learning Javascript and C# with a touch of Python
+- 🌱 I’m currently focusing on C# and Javascript and C# with a touch of Python
   - 🪴 I'm also strengthening my existing knowledge around SQL and HTML (with CSS and C trailing along)
 - 👀 I’m interested in anything in the realm of puzzles and/or creative problem solving
 - 🤞🏻 I'm working to further my transition into development
