@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @essieanawalt
-- 🌱 I’m currently focusing on C# and Javascript and C# 
-  - 🪴 I'm also strengthening my existing knowledge around SQL and HTML (with CSS trailing along)
+- 🌱 I’m currently focusing on C# and Javascript
+  - 🪴 I'm also strengthening my existing knowledge around SQL and HTML+CSS
 - 👀 I’m interested in anything in the realm of puzzles and/or creative problem solving
 - 🤞🏻 I'm working to further my transition into development
 
