@@ -2,7 +2,6 @@
 - 🌱 I’m currently focusing on C# and Javascript
   - 🪴 I'm also strengthening my existing knowledge around SQL and HTML+CSS
 - 👀 I’m interested in anything in the realm of puzzles and/or creative problem solving
-- 🤞🏻 I'm working to further my transition into development
 
 <!---
 essieanawalt/essieanawalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
